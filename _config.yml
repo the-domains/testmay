@@ -1,0 +1,28 @@
+name: TestMay
+favicon: null
+layout_spectrum: 0.607069245306775
+typography_spectrum: 0.24267108761705458
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.336239110911265
+  lightness: 0.2470920137129724
+  saturation: 0.04535124870017171
+  rhythmicContrast: 0.7126312840264291
+purpose: []
